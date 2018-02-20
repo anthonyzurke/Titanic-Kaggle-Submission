@@ -9,7 +9,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./starter-code.ipynb)|
+| Lesson | Notebook | [Link](./6.02-starter-code.ipynb)|
 | Lab | CART & RF Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/6.02-cart-rf-lab) |
 
 > **Dataset description:** Car Data, UCI Admissions/College
