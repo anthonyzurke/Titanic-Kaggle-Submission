@@ -1,7 +1,5 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.02 - Bootstrapping, Bagging, Random Forests, and ExtraTrees
 
-> Week 6, Lesson 2
-
 ---
 
 ## Materials We Provide
@@ -9,10 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./6.02-starter-code.ipynb)|
-| Lab | CART & RF Lab | [Link](https://git.generalassemb.ly/DSI-EAST-2/6.02-cart-rf-lab) |
-
-> **Dataset description:** Car Data, UCI Admissions/College
+| Lesson | Notebook | [Link](./Codealong.ipynb)|
 
 ---
 
