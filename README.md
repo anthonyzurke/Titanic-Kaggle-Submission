@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.02 - Bootstrapping, Bagging, Random Forests, and ExtraTrees
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.03 - Random Forests and ExtraTrees
 
 ---
 
