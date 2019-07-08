@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 6.03 - Random Forests and ExtraTrees
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Random Forests and ExtraTrees
 
 ---
 
@@ -7,7 +7,7 @@
 
 | Topic | Description | Link |
 | --- | --- | --- |
-| Lesson | Notebook | [Link](./Codealong.ipynb)|
+| Lesson | Notebook | [Link](./starter-code.ipynb)|
 
 ---
 
@@ -64,4 +64,3 @@ III. **Modeling** (75 minutes total)
 - [DecisionTreeRegressor Documentation](http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeRegressor.html#sklearn.tree.DecisionTreeRegressor)
 - [Walking through a CART Algorithm](https://www.xoriant.com/blog/product-engineering/decision-trees-machine-learning-algorithm.html)
 ---
-
